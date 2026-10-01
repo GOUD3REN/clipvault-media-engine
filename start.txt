@@ -1,0 +1,3 @@
+cd "C:\Users\PC\Documents\anotacoes\visual code\clipvault-media-engine"
+& "c:\Users\PC\Documents\anotacoes\visual code\.venv\Scripts\Activate.ps1"
+python run.py

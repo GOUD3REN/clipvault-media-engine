@@ -1,0 +1,15 @@
+{
+  "name": "streamer_jumpscare_v1",
+  "output": {
+    "width": 1080,
+    "height": 1920
+  },
+  "jumpscare": {
+    "image": "assets/jumpscare.png",
+    "position": {
+      "mode": "percentage",
+      "value": 50
+    },
+    "duration": 0.5
+  }
+}

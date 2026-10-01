@@ -1,0 +1,36 @@
+CLIPVAULT MEDIA ENGINE
+│
+├── 01. PROCESSO ATUAL
+│   ├── Input
+│   ├── Transformações
+│   ├── Decisões humanas
+│   └── Output
+│
+├── 02. PADRÕES
+│   ├── Sempre acontece
+│   ├── Às vezes acontece
+│   └── Depende do contexto
+│
+├── 03. DECOMPOSIÇÃO
+│   └── operações atômicas
+│
+├── 04. ABSTRAÇÕES
+│   ├── Video
+│   ├── Timeline
+│   ├── Layer
+│   ├── Template
+│   ├── Effect
+│   └── Pipeline
+│
+├── 05. ALGORITMOS
+│
+├── 06. ARQUITETURA
+│
+├── 07. MVP
+│
+└── 08. EVOLUÇÃO
+    ├── CV
+    ├── ASR
+    ├── LLM
+    ├── analytics
+    └── optimization

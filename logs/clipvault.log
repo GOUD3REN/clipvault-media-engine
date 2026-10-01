@@ -1,0 +1,54 @@
+[2026-09-30 20:44:55,725] ERROR - Analysis failed for input/videoplayback (1).mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,726] ERROR - Failed to process videoplayback (1).mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,767] ERROR - Analysis failed for input/videoplayback (2).mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,767] ERROR - Failed to process videoplayback (2).mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,807] ERROR - Analysis failed for input/videoplayback (3).mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,808] ERROR - Failed to process videoplayback (3).mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,848] ERROR - Analysis failed for input/videoplayback (4).mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,849] ERROR - Failed to process videoplayback (4).mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,890] ERROR - Analysis failed for input/videoplayback (5).mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,890] ERROR - Failed to process videoplayback (5).mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,930] ERROR - Analysis failed for input/videoplayback (6).mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,930] ERROR - Failed to process videoplayback (6).mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,971] ERROR - Analysis failed for input/videoplayback (7).mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:55,971] ERROR - Failed to process videoplayback (7).mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:56,011] ERROR - Analysis failed for input/videoplayback.mp4: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 20:44:56,011] ERROR - Failed to process videoplayback.mp4: Analysis error: [Errno 13] Permission denied: 'ffprobe'
+[2026-09-30 21:02:46,825] WARNING - FFMPEG PROBLEM: Permission denied executing 'ffmpeg' ([Errno 13] Permission denied: 'ffmpeg'). Linux/macOS: 'chmod +x' the binary. Windows: unblock/reinstall FFmpeg or set CLIPVAULT_FFMPEG.
+[2026-09-30 21:21:55,487] WARNING - FFMPEG PROBLEM: 'ffmpeg' not found on PATH. Install FFmpeg or set CLIPVAULT_FFMPEG to the binary path.
+[2026-09-30 21:24:41,234] WARNING - FFMPEG PROBLEM: 'ffmpeg' not found on PATH. Install FFmpeg or set CLIPVAULT_FFMPEG to the binary path.
+[2026-09-30 21:26:18,733] INFO - FFmpeg OK: C:\Users\PC\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffmpeg.exe | ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+[2026-09-30 21:27:06,394] INFO - Processing videoplayback (1).mp4: duration=93.67s, midpoint=46.84s
+[2026-09-30 21:27:26,870] INFO - Processing videoplayback (1).mp4: duration=93.67s, midpoint=46.84s
+[2026-09-30 21:27:47,360] INFO - Processing videoplayback (2).mp4: duration=40.66s, midpoint=20.33s
+[2026-09-30 21:27:56,965] INFO - Processing videoplayback (2).mp4: duration=40.66s, midpoint=20.33s
+[2026-09-30 21:28:06,697] INFO - Processing videoplayback (3).mp4: duration=56.26s, midpoint=28.13s
+[2026-09-30 21:28:22,462] INFO - Processing videoplayback (3).mp4: duration=56.26s, midpoint=28.13s
+[2026-09-30 21:28:37,308] INFO - Processing videoplayback (4).mp4: duration=59.82s, midpoint=29.91s
+[2026-09-30 21:28:49,970] INFO - Processing videoplayback (4).mp4: duration=59.82s, midpoint=29.91s
+[2026-09-30 21:29:02,596] INFO - Processing videoplayback (5).mp4: duration=39.51s, midpoint=19.75s
+[2026-09-30 21:29:14,968] INFO - Processing videoplayback (5).mp4: duration=39.51s, midpoint=19.75s
+[2026-09-30 21:29:26,486] INFO - Processing videoplayback (6).mp4: duration=21.99s, midpoint=11.00s
+[2026-09-30 21:29:33,699] INFO - Processing videoplayback (6).mp4: duration=21.99s, midpoint=11.00s
+[2026-09-30 21:29:41,007] INFO - Processing videoplayback (7).mp4: duration=53.76s, midpoint=26.88s
+[2026-09-30 21:29:51,443] INFO - Processing videoplayback (7).mp4: duration=53.76s, midpoint=26.88s
+[2026-09-30 21:30:01,826] INFO - Processing videoplayback.mp4: duration=14.61s, midpoint=7.30s
+[2026-09-30 21:30:05,941] INFO - Processing videoplayback.mp4: duration=14.61s, midpoint=7.30s
+[2026-09-30 21:43:17,388] INFO - FFmpeg OK: C:\Users\PC\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffmpeg.exe | ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+[2026-09-30 21:44:02,789] INFO - Processing videoplayback (1).mp4: duration=93.67s, midpoint=46.84s
+[2026-09-30 21:44:22,765] INFO - Processing videoplayback (2).mp4: duration=40.66s, midpoint=20.33s
+[2026-09-30 21:44:31,825] INFO - Processing videoplayback (3).mp4: duration=56.26s, midpoint=28.13s
+[2026-09-30 21:44:46,103] INFO - Processing videoplayback (4).mp4: duration=59.82s, midpoint=29.91s
+[2026-09-30 21:44:58,244] INFO - Processing videoplayback (5).mp4: duration=39.51s, midpoint=19.75s
+[2026-09-30 21:45:09,132] INFO - Processing videoplayback (6).mp4: duration=21.99s, midpoint=11.00s
+[2026-09-30 21:45:16,938] INFO - Processing videoplayback (7).mp4: duration=53.76s, midpoint=26.88s
+[2026-09-30 21:45:26,750] INFO - Processing videoplayback.mp4: duration=14.61s, midpoint=7.30s
+[2026-09-30 21:54:28,695] INFO - FFmpeg OK: C:\Users\PC\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffmpeg.exe | ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+[2026-09-30 21:54:45,857] INFO - Processing videoplayback (1).mp4: duration=93.67s, midpoint=46.84s
+[2026-09-30 21:55:05,468] INFO - Processing videoplayback (2).mp4: duration=40.66s, midpoint=20.33s
+[2026-09-30 21:55:14,708] INFO - Processing videoplayback (3).mp4: duration=56.26s, midpoint=28.13s
+[2026-09-30 21:55:30,907] INFO - Processing videoplayback (4).mp4: duration=59.82s, midpoint=29.91s
+[2026-09-30 21:55:44,703] INFO - Processing videoplayback (5).mp4: duration=39.51s, midpoint=19.75s
+[2026-09-30 21:55:57,184] INFO - Processing videoplayback (6).mp4: duration=21.99s, midpoint=11.00s
+[2026-09-30 21:56:05,706] INFO - Processing videoplayback (7).mp4: duration=53.76s, midpoint=26.88s
+[2026-09-30 21:56:17,900] INFO - Processing videoplayback.mp4: duration=14.61s, midpoint=7.30s

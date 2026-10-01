@@ -1,0 +1,25 @@
+LOTE 02
+   ↓
+OBSERVAR
+   ↓
+ANOTAR
+   ↓
+DECOMPOR EM LAYERS
+   ↓
+IDENTIFICAR CASOS DE USO
+   ↓
+SEPARAR:
+├── determinístico
+├── parametrizável
+├── heurístico
+└── dependente de decisão humana
+   ↓
+DEFINIR MVP
+   ↓
+ARQUITETURA
+   ↓
+IMPLEMENTAR
+   ↓
+MEDIR
+   ↓
+ITERAR

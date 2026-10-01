@@ -1,0 +1,27 @@
+clipvault-engine/
+├── input/                 # Place source videos here
+├── assets/                # Place jumpscare image here
+├── output/                # Processed videos appear here
+├── templates/
+│   └── streamer_jumpscare_v1.json
+├── logs/                  # Application and FFmpeg logs
+├── src/
+│   ├── __init__.py
+│   ├── main.py            # FastAPI app
+│   ├── models/
+│   │   └── job.py         # Pydantic models
+│   └── core/
+│       ├── analyzer.py    # ffprobe wrapper
+│       ├── compositor.py  # FFmpeg command builders
+│       ├── renderer.py    # Orchestrates processing
+│       └── job_manager.py # Batch orchestration
+├── static/
+│   ├── index.html         # Dashboard UI
+│   ├── style.css
+│   └── script.js
+├── tests/
+│   ├── test_logic.py
+│   └── test_engine.py
+├── requirements.txt
+├── run.py                 # Start script
+└── README.md
